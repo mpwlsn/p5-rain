@@ -1,2 +1,5 @@
 # p5-sketches
-Collection of P5 sketches I've made
+Rain drops
+Made by following Daniel Shiffman's "The Coding Train" Coding challenge #4: Purple Rain
+https://shiffman.net/
+
